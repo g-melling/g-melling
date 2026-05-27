@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georgi</h1>
 <h3 align="center">MSc Computer Science with Artificial Intelligence 2nd year student at University of York, UK</h3>
 
-- 🔭 I’m currently working on **a Social Media Moderation Analysis App**
+- 🔭 I’m currently working on **a Social Media Moderation Analytics App**
 
 - 🌱 I’m currently learning **PyTorch and TensorFlow**
 
